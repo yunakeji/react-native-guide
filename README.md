@@ -10,12 +10,7 @@
 - [Seeds](#seeds)
 - [Libraries](#libraries)
 - [Open Source Apps](#open-source-apps)
-- [Frameworks](#frameworks)
 - [Tutorials](#tutorials)
-- [Books](#books)
-- [Videos](#videos)
-- [Blogs](#blogs)
-- [Releases](#releases)
 
 
 ## Components（组件）
@@ -408,12 +403,6 @@ Open source React Native apps and other examples.
 - [iOS app that transcript your voice with IBM Watson Cloud ★33](https://github.com/yrezgui/meowth-ios)
 
 
-## Frameworks
-
-- [Awesome React Native Meteor ★115](https://github.com/meteor-factory/awesome-react-native-meteor) - An awesome list of resources for using Meteor and React Native together
-- [NativeBase ★3679](https://github.com/GeekyAnts/NativeBase) - builds a layer on top of React Native that provides you with basic set of components for mobile application development
-- [Teaset ★101](https://github.com/rilyu/teaset) - A UI library for react native, provides 20+ pure JS(ES6) components, focusing on content display and action control.
-
 ## Tutorials
 
 Walkthroughs and tutorials that help you learn React Native.
@@ -424,68 +413,3 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
 
 
-## Problem & Solution
-
-Quick solutions to typical problems.
-
-...
-
-## Books
-
-Books - free and commercial (but only good ones).
-
-- [Programming React Native](https://leanpub.com/programming-react-native) - (Free) An in-depth React Native book that you should read after you've done a couple tutorials of the many out there.
-- [React Native Animation Book](http://browniefed.com/react-native-animation-book/) - (Free) React Native Animation
-
-Books - for sale.
-
-- [React Native In Action](https://www.manning.com/books/react-native-in-action) - Learn how to build applications using React Native from the ground up
-
-## Videos
-
-Assortment of conference and training videos.
-
-### Talks
-
-- [awesome-react-native-talks ★194](https://github.com/mightyCrow/awesome-react-native-talks) - A curated list of talks about React Native or topics related to React Native.
-- React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
-- React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU)
-- F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-- [Actually Building Things In React Native , Jani Eväkallio, Futurice](https://www.youtube.com/watch?v=ZqKYk0aTaYk)
-- [Using Redux, Jonas Ohlsson, State](https://www.youtube.com/watch?v=Ola8U-SpL6U)
-- [Native Testing](https://www.youtube.com/watch?v=6aVDe2Y-co4)
-- [React Native In The Wild - Bonnie Eisenman](https://www.youtube.com/watch?v=KWEhFWm0SL8)
-
-### Training & tutorials
-
-- [Generate React Native Forms](http://react.rocks/example/tcomb-form-native) with `tcomb-form-native`
-- [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc) and [Gist](https://gist.github.com/peterjmag/2ef39ba5d25f3f1e0008)
-- Egghead.io: [React Native Fundamentals](https://egghead.io/series/react-native-fundamentals)
-- Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
-- Pluralsight.com: [Build Cross Platform React Native Apps with Exponent and Redux](https://www.pluralsight.com/courses/build-react-native-exponent-redux-apps)
-- Udemy.com: [Build apps with React Native](https://www.udemy.com/reactnative/learn/v4/overview)
-- [React Native training ★238](https://www.gitbook.com/book/unbug/react-native-training/details)
-- Dailydrip.com: [Learn React Native in 5min per day](https://www.dailydrip.com/topics/react-native/)
-- [Awesome React Native Education ★106](https://github.com/hsavit1/Awesome-React-Native-Education)
-- [Mario Díez Channel](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg/search?query=React+Native) - Youtube channel in spanish about with a series of videos talking about react native
-- Udemy.com: [Create Your First React Native App](https://www.udemy.com/create-your-first-react-native-app/?couponCode=AWESOME-REACT-NATIVE) - Introduction to building a React Native app and learning the foundational pieces.
-- Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
-- [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - (Free) A multi-hour in-depth video course showing you how to build apps with React Native.
-- [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
-## Blogs
-
-- [Official React Native Blog](http://facebook.github.io/react-native/blog/)
-- [Use React Native Blog](http://www.reactnative.com/)
-- [Facebook Code Blog](https://code.facebook.com/)
-- [The Bakery](http://blog.thebakery.io/) - JavaScript, React, React Native posts.
-- [Christopher Chedeau aka Vjeux](http://blog.vjeux.com/)
-- [Brent Vatne](http://brentvatne.ca/)
-- [Kyle Corbitt](https://corbt.com/posts/) - Cofounder at Emberall.
-- [Made with React](http://madewithreact.com/) - Showcase of apps using React or React Native.
-- [Spencer Carli](https://medium.com/@spencer_carli)
-
-## Releases
-
-- [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
-- [Stable: 0.42.2](https://github.com/facebook/react-native/releases/tag/v0.42.3)
-- [Next: latest](https://github.com/facebook/react-native/releases/latest)
