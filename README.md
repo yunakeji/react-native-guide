@@ -7,7 +7,7 @@
 - [Components(组件)](#components)
 - [Navigation](#navigation)
 - [Utilities](#utilities)
-- [Open Source Apps](#open-source-apps)
+- [开源APP](#开源APP)
 - [Tutorials](#tutorials)
 
 
@@ -63,20 +63,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-global-event-emitter ★36](https://github.com/paramaggarwal/react-native-global-event-emitter) - Shared event emitter between native and JS for React Native.
 - [react-native-immutable ★11](https://github.com/thewei/react-native-immutable) - using immutable.js library with react-native
 - [react-native-mock ★313](https://github.com/RealOrangeOne/react-native-mock) - A fully mocked and test-friendly version of react native
-- [react-native-rsa ★8](https://github.com/z-hao-wang/react-native-rsa) - RSA crypto lib for react native
-- [react-native-tools ★0](https://github.com/kkennis/react-native-tools) - Tools for react native project development
-- [react-native-user-defaults ★32](https://github.com/wwayne/react-native-user-defaults) - ios UserDefaults used by react-native
-- [react-native-userdefaults-ios ★53](https://github.com/dsibiski/react-native-userdefaults-ios) - React Native Module for NSUserDefaults
-- [react-native-util ★8](https://github.com/exponentjs/react-native-util) - A fork of io.js's util module that works with React Native
-- [react-native-webp ★29](https://github.com/dbasedow/react-native-webp) - react-native-webp adds support for WebP images for react-native components.
-- [react-native-webpackager-server ★2](https://github.com/changfuguo/react-native-webpackager-server) - react native webpackager server
-- [react-native-zip-archive ★49](https://github.com/plrthink/react-native-zip-archive) - Zip / Unzip archive utility
-- [react-native-html-parser ★10](https://github.com/g6ling/react-native-html-parser) - parse html in react-native
-- [react-native-slowlog ★55](https://github.com/jondot/react-native-slowlog) - A high-performance timer based profiler for React Native that helps you track big performance problems
-- [codemod-RN24-to-RN25 ★94](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
-- [react-native-workers ★291](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
-- [react-native-console-time-polyfill ★2](https://github.com/MaxGraey/react-native-console-time-polyfill) - console.time and console.timeEnd polyfill for react-native
-- [detox ★422](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
+
 
 ### Forms
 
@@ -106,23 +93,12 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-build-cli ★3](https://github.com/adonpro/react-native-build-cli) - a cli tool for react-native build
 - [react-native-code-push ★2469](https://github.com/Microsoft/react-native-code-push) - React Native plugin for the CodePush service
 - [react-native-console-panel ★56](https://github.com/sospartan/react-native-console-panel) - react native component for display console messages.
-- [react-native-cosmos ★17](https://github.com/jerolimov/react-native-cosmos) - DX tool to test react-native components with defined props/state fixtures.
-- [react-native-css-loader ★30](https://github.com/thewei/react-native-css-loader) - You can use react-native-css-loader with react-native-webpack-server, which can use webpack to built react-native app better.
-- [react-native-debug-stylesheet ★58](https://github.com/brentvatne/react-native-debug-stylesheet) - Add coloured borders or backgrounds to all views to make it easier to debug layout issues
-- [react-native-kill-packager ★4](https://github.com/livioso/react-native-kill-packager) - kill running react native packager.
-- [react-native-webpack-server ★862](https://github.com/mjohnston/react-native-webpack-server) - Build React Native apps with Webpack
-- [reactotron ★5318](https://github.com/skellock/reactotron) - Control, monitor, and instrument your React Native apps from the comfort of your terminal.
-- [generator-rn-toolbox ★99](https://github.com/bamlab/generator-rn-toolbox) - Yeoman generators to kickstart your project and setup continuous deployment.
 
 ### Styling
 
 - [cairn ★98](https://github.com/adamterlson/cairn) - Simple, string-based style selector engine with support for basic inheritance.
 - [glamorous-native ★88](https://github.com/robinpowered/glamorous-native) - A React Native version of glamorous - a component styling library.
 - [react-native-css ★584](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS.
-- [react-native-extended-stylesheet ★571](https://github.com/vitalets/react-native-extended-stylesheet) - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
-- [react-native-responsive ★145](https://github.com/ayoubdev/react-native-responsive) - The power of Media Queries now in your React Native project (ios and android) ! Responsive Design can now be easily managed !
-- [react-native-theme ★40](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
-- [react-native-style-tachyons ★221](https://github.com/tachyons-css/react-native-style-tachyons) - functional, maintainable design for everyone based on tachyons.css.
 
 
 ### System
@@ -251,50 +227,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [react-native-facebook-account-kit ★79](https://github.com/underscopeio/react-native-facebook-account-kit) - A Facebook Account Kit SDK wrapper for React Native.
 - [react-native-amap ★16](https://github.com/laoqiu/react-native-amap) - A React Native component for building maps with the AMap Android SDK
-- [react-native-android-vitamio ★59](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
-- [react-native-braintree ★68](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
-- [react-native-braintree-android ★16](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
-- [react-native-braintree-xplat ★22](https://github.com/kraffslol/react-native-braintree-xplat) - Cross-platform Braintree v.zero module.
-- [react-native-card-io ★118](https://github.com/kayla-tech/react-native-card-io) - React Native component for card.io
-- [react-native-awesome-card-io ★100](https://github.com/Kerumen/react-native-awesome-card-io) - A complete and cross-platform card.io component for React Native (iOS and Android)
-- [react-native-conekta ★3](https://github.com/zo0r/react-native-conekta) - Conekta SDK for React Native
-- [react-native-digits ★58](https://github.com/fixt/react-native-digits) - Digits wrapper to use in React Native
-- [react-native-fabric-digits ★90](https://github.com/JeanLebrument/react-native-fabric-digits) Fabric Digits wrapper for React-Native
-- [react-native-facebook-login ★712](https://github.com/magus/react-native-facebook-login) - React Native wrapper for native iOS Facebook SDK login button and manager
-- [react-native-fbintent ★3](https://github.com/syarul/react-native-fbintent) - A React Native intent for Android Facebook App
-- [react-native-flurry ★6](https://github.com/amitkothari/react-native-flurry) - React Native wrapper for Flurry
-- [react-native-google-places-autocomplete ★332](https://github.com/FaridSafi/react-native-google-places-autocomplete) - Customizable Google Places autocomplete component for iOS and Android React-Native apps
-- [react-native-google-signin ★382](https://github.com/apptailor/react-native-google-signin) - Google Signin for your react native applications
-- [react-native-hawk ★4](https://github.com/andyscott/react-native-hawk) - Hawk wrapper for react-native
-- [react-native-heyzap](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
-- [react-native-instagram-oauth ★37](https://github.com/watzak/react-native-instagram-oauth) - react-native instagram login
-- [react-native-instagram-share ★14](https://github.com/watzak/react-native-instagram-share) - A react-native interface to share images and videos within instagram (iOS)
-- [react-native-youtube-oauth ★0](https://github.com/indatawetrust/react-native-youtube-oauth) - react-native interface to login to youtube (iOS)
-- [react-native-instagram ★1](https://github.com/watzak/react-native-instagram) - react-native instagram wrapper api (iOS)
-- [react-native-leancloud ★9](https://github.com/turingou/react-native-leancloud) - a react native LeanCloud component
-- [react-native-level ★32](https://github.com/tradle/react-native-level) - levelup API for react-native AsyncStorage.
-- [react-native-linkedin-login ★29](https://github.com/jodybrewster/react-native-linkedin-login) - Linkedin Login for your react native applications
-- [react-native-onepassword ★21](https://github.com/DriveWealth/react-native-onepassword) - React Native integration with the OnePassword extension.
-- [react-native-qq ★136](https://github.com/reactnativecn/react-native-qq) - QQ Login&Share support in React Native.
-- [react-native-qqsdk ★6](https://github.com/iVanPan/react-native-qqsdk) - A React Native wrapper around the Tencent QQ SDK for Android and iOS. Provides access to QQ ssoLogin, QQ Sharing, QQ Zone Sharing etc.
-- [react-native-realtimemessaging-android ★45](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native Android
-- [react-native-realtimemessaging-ios ★7](https://github.com/realtime-framework/RCTRealtimeMessaging) - The Realtime Framework Cloud Messaging Pub/Sub client for React-Native
-- [react-native-realtime-pusher ★5](https://github.com/gijoehosaphat/react-native-realtime-pusher) - React Native module implementing the Pusher Realtime API
-- [react-native-realtimestorage-android ★4](https://github.com/realtime-framework/RCTRealtimeStorageAndroid) - The Realtime Cloud Storage client for React-Native Android
-- [react-native-realtimestorage-ios ★7](https://github.com/realtime-framework/RCTRealtimeCloudStorage) - The Realtime Framework Cloud Storage client for React-Native
-- [react-native-sinch-verification ★6](https://github.com/kevinresol/react-native-sinch-verification) - Sinch verification for react native
-- [react-native-testfairy ★4](https://github.com/testfairy/react-native-testfairy) - TestFairy for React Native
-- [react-native-twilio ★55](https://github.com/rogchap/react-native-twilio) - A React Native wrapper for the Twilio Client SDK.
-- [react-native-twilio-programmable-voice ★7](https://github.com/hoxfon/react-native-twilio-programmable-voice) - A React Native wrapper for the Twilio Programmable Voice SDK.
-- [react-native-voximplant ★71](https://github.com/voximplant/react-native-voximplant) - VoxImplant Mobile SDK for embedding voice and video communication into React Native apps.
-- [react-native-wechat-ios ★162](https://github.com/beefe/react-native-wechat-ios) - Wechat SDK for React Native(iOS).
-- [react-native-wechat ★737](https://github.com/weflex/react-native-wechat) - react-native library for wechat app
-- [react-native-woopra ★11](https://github.com/isair/react-native-woopra) - Promise based Woopra library for react-native
-- [react-native-axmall-alipay ★5](https://github.com/szq4119/react-native-alipay) - react-native alipay
-- [react-native-signalr ★42](https://github.com/olofd/react-native-signalr) - SignalR-client for react-native
-- [react-native-sumup ★2](https://github.com/APSL/react-native-sumup) - A React Native implementation of SumupSDK.
-- [react-native-new-relic ★18](https://github.com/wix/react-native-newrelic) - New Relic event reporting for react-native.
-- [instabug-reactnative ★11](https://github.com/Instabug/instabug-reactnative) - A React Native wrapper for Bug reporting Instabug SDK.
 
 ### Monetization
 
@@ -302,11 +234,13 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-revmob ★7](https://github.com/RevMob/react-native-revmob) - RevMob wrapper for React Native.
 - [react-native-stripe-api ★64](https://github.com/xcarpentier/react-native-stripe-api) - A small React Native library for Stripe Rest API
 
-### Animation
+### Tab
 
-- [react-native-gl-model-view ★62](https://github.com/rastapasta/react-native-gl-model-view) - Display and animate textured Wavefront .OBJ 3D models with 60fps (iOS)
-- [react-native-animated-sprite ★7](https://github.com/micahrye/react-native-animated-sprite) - A feature rich declarative component for animation, tweening, and dragging sprites.
-- [react-native-interactable ★1606](https://github.com/wix/react-native-interactable) - experimental implementation of high performance interactable views in React Native
+- [react-native-tab-menu](https://github.com/vczero/react-native-tab-menu) - React Native 二级菜单组件
+
+### Animation（动画）
+
+- [react-native-gl-model-view](https://github.com/rastapasta/react-native-gl-model-view) - 图片动画，类似游戏人物的3D效果
 
 
 
@@ -319,10 +253,16 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-windows ★1619](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
 - [react-native-tvos-controller ★2](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 
+### 时间轴
+
+- [reactjs-conf-2016](https://github.com/Charca/reactjs-conf-2016) - 时间轴效果
 
 ### Effect(效果)
 
 - [react-native-read-more-text ★95](https://github.com/expo/react-native-read-more-text)
+- [react-native-mentions](https://github.com/harshq/react-native-mentions) - 文本框输入，弹出@用户
+- [rn-emoji-feedback](https://github.com/mastermoo/rn-emoji-feedback) - 表情打5分类似的效果
+
 
 ### Chat(适合及时通讯聊天)
 
@@ -341,46 +281,16 @@ Useful React Native tooling.
 - [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
 - [Ruby React Native (via Opal) ★382](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
 - [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
-- [AppHub](https://apphub.io/) - Update React Native apps, instantly
-- [CodePush](http://microsoft.github.io/code-push/) - Push code updates to your apps, instantly
-- [rnpm ★2032](https://github.com/rnpm/rnpm) - react native package manager
-- [rsx ★30](https://github.com/react-native-contrib/rsx) - An alternative to the `react-native` CLI tool
-- [haul ★1029](https://github.com/callstack-io/haul) - command line tool for developing React Native apps
-- [rn-nodeify ★64](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
-- [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
-- [react-native-debugger ★638](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
-- [react-native-exception-handler](https://github.com/master-atul/react-native-exception-handler) – Avoid silent crash and errors on the production build of your app
-- [generact](http://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
-- [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
-- [Storybook](https://storybook.js.org) - UI development environment for your React components
 
 
 
-## Open Source Apps
+## 开源APP
 
 Open source React Native apps and other examples.
-- [ASOS ★1](https://github.com/edwinbosire/ASOS) - E-commerce app for ASOS (clone)
+- [react_native_office](https://github.com/talentjiang/react_native_office) - 办公OA
 - [Urban Dictionary ★16](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
 - [Appointments  ★58](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
 - [GitHub Popular ★1085](https://github.com/crazycodeboy/GitHubPopular) - This is a GitHub most popular repositories viewer with React Native.
-- [NBAreact ★31](https://github.com/jbkuczma/NBAreact)
-- [Reddit made with React Native and Redux ★72](https://github.com/KevinOfNeu/xReddit)
-- [React Native Showcase](https://facebook.github.io/react-native/showcase.html)
-- [Hacker News (iOS & Android) ★2747](https://github.com/iSimar/HackerNews-React-Native)
-- [ReactNativeHackerNews ★217](https://github.com/jsdf/ReactNativeHackerNews)
-- [ReactNativeRedditReader ★285](https://github.com/akveo/react-native-reddit-reader)
-- [Premier League ★14](https://github.com/ennioma/react-native-premier-league)
-- [Buyscreen sample ★125](https://github.com/appintheair/react-native-buyscreen)
-- [NewsWatch video viewer ★108](https://github.com/bradoyler/newswatch-react-native)
-- [Native iOS font list ★39](https://github.com/yayolius/react-native-font-list)
-- [Confreaks ★28](https://github.com/cabaret/confreaks-react-native)
-- [iOS Conference App made with React Native ★202](https://github.com/mikkoj/NortalTechDay)
-- [Alt/Flux Demo ★106](https://github.com/mrblueblue/react-native-alt-demo)
-- [Dribbble React Native ★1492](https://github.com/catalinmiron/react-native-dribbble-app)
-- [Lumpen Radio ★141](https://github.com/jhabdas/lumpen-radio)
-- [React Native Embedded App ★171](https://github.com/dsibiski/react-native-embedded-app-example) -A collection of examples for using React Native in an existing iOS application
-- [An example React Native project for client login authentication ★231](https://github.com/ryanmcdermott/react-native-login)
-- [iOS app that transcript your voice with IBM Watson Cloud ★33](https://github.com/yrezgui/meowth-ios)
 
 
 ## Tutorials
