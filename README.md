@@ -74,6 +74,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Forms
 
 - [react-native-gifted-form](https://github.com/FaridSafi/react-native-gifted-form) - 基础样式Form表单
+- [react-native-check-box](https://github.com/crazycodeboy/react-native-check-box) - 复选框
 
 ### Internationalization
 
@@ -252,6 +253,10 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-windows ★1619](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
 - [react-native-tvos-controller ★2](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 
+### 非常适合整站参考的项目
+
+- [Poplar](https://github.com/lvwangbeta/Poplar) - 非常适合整站的，重点参考
+
 ### 时间轴
 
 - [reactjs-conf-2016](https://github.com/Charca/reactjs-conf-2016) - 时间轴效果
@@ -260,6 +265,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### 等级打分
 
 - [react-native-grading](https://github.com/xgfe/react-native-grading)
+- [react-native-ratings](https://github.com/Monte9/react-native-ratings)
 
 ### Effect(效果)
 
@@ -278,9 +284,17 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [react-native-smart-image-loader](https://github.com/react-native-component/react-native-smart-image-loader)
 
+### 自动完成
+
+- [react-native-autocomplete-input](https://github.com/l-urence/react-native-autocomplete-input)
+
 ### 图片处理
 
 - [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - 图片处理截取
+
+### tabBottom效果图
+
+- [react-native-material-bottom-navigation](https://github.com/timomeh/react-native-material-bottom-navigation)
 
 ### modal弹出窗口
 
@@ -296,10 +310,15 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Chat(适合及时通讯聊天)
 
 - [react-native-reversed-flat-list ★89](https://github.com/jevakallio/react-native-reversed-flat-list)
+- [phoenix-react-native-mashup](https://github.com/skellock/phoenix-react-native-mashup)
 
 ### 瀑布流效果
 
 - [react-native-masonry](https://github.com/brh55/react-native-masonry)
+
+### 加载进度效果
+
+- [react-native-loader](https://github.com/mohebifar/react-native-loader)
 
 ### 安全Text
 
@@ -316,6 +335,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [React-Native-SnackBar-Component](https://github.com/SiDevesh/React-Native-SnackBar-Component)
 - [react-native-scrolltotop](https://github.com/yzsolo/react-native-scrolltotop) - 列表滚动到顶部效果
 - [den](https://github.com/asamiller/den)
+- [react-native-percentage-circle](https://github.com/JackPu/react-native-percentage-circle) - 百分比的效果图
+- [react-native-pan-controller](https://github.com/lelandrichardson/react-native-pan-controller)
 
 ### Other(其他好用组件，未归类)
 
@@ -330,13 +351,34 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro) - 介绍页
 
+### 视频效果
+
+- [newswatch-react-native](https://github.com/bradoyler/newswatch-react-native)
+
 ### 更新升级
 
 - [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater) - 更新升级效果
 
+### 小的学习案例
+
+- [rn-wunderlist](https://github.com/mastermoo/rn-wunderlist) - 小的学习案例
+
+### 颜色选择器
+
+- [Material-Colors-native](https://github.com/BafS/Material-Colors-native) - 还可以作为选项卡
+
+### 城市选择器
+
+- [react-native-country-picker-modal](https://github.com/xcarpentier/react-native-country-picker-modal) - 城市选择器
+
+### 选项卡
+
+- [mobile-shopping-react-native](https://github.com/catalinmiron/mobile-shopping-react-native) - 购物选项卡
+
 ## 框架
 
 - [nativebase](https://docs.nativebase.io/) - 很不错的UI框架
+- [teaset](https://github.com/rilyu/teaset) - UI框架
 
 
 
@@ -351,6 +393,8 @@ Open source React Native apps and other examples.
 - [react-native-Gank](https://github.com/wangdicoder/react-native-Gank)
 - [react-native-cnblogs](https://github.com/togayther/react-native-cnblogs) - 仿博客园
 - [mdcc-client](https://github.com/poberwong/mdcc-client)
+- [react-native-one](https://github.com/wutongke/react-native-one) - 部分效果可用
+- [GitterMobile](https://github.com/JSSolutions/GitterMobile) - 部分效果可用
 
 
 ## 教程指南
