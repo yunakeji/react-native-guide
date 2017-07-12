@@ -1,6 +1,12 @@
-# RN指南-学习、工作中实践记录资料(汇聚知识，分享精华)
+# RN指南-学习、工作中研究与实践记录资料(汇聚知识，分享精华)
 
+该项目用于分享我们在研究与实践React Native过程中的一些经验，总结，教程，以及踩过的一些坑。  
 
+**本项目持续更新**    
+
+**欢迎加入群和大家一起讨论：**
+
+>React Native学习交流群：`601148398`
 
 ## 目录
 
@@ -233,6 +239,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [react-native-gl-model-view](https://github.com/rastapasta/react-native-gl-model-view) - 图片动画，类似游戏人物的3D效果
 - [lottie-react-native](https://github.com/airbnb/lottie-react-native) - 超级好的动画效果
+- [react-native-login-animated](https://github.com/thanhtungdp/react-native-login-animated) - 超炫的登录页面
 
 
 
@@ -259,6 +266,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-read-more-text ★95](https://github.com/expo/react-native-read-more-text)
 - [react-native-mentions](https://github.com/harshq/react-native-mentions) - 文本框输入，弹出@用户
 - [rn-emoji-feedback](https://github.com/mastermoo/rn-emoji-feedback) - 表情打5分类似的效果
+- [react-native-circular-slider](https://github.com/bgryszko/react-native-circular-slider) - 时间圆盘效果
 
 ### Parallax View(视觉效果)
 
@@ -266,19 +274,65 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
 - [ziliun-react-native](https://github.com/sonnylazuardi/ziliun-react-native)
 
+### 图片预加载
+
+- [react-native-smart-image-loader](https://github.com/react-native-component/react-native-smart-image-loader)
+
+### 图片处理
+
+- [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) - 图片处理截取
+
+### modal弹出窗口
+
+- [react-native-modalbox](https://github.com/maxs15/react-native-modalbox) - 弹出窗口
+- [react-native-lightbox](https://github.com/oblador/react-native-lightbox) - 弹出窗口
+
+### Swiper效果
+
+- [react-native-swiper](https://github.com/leecade/react-native-swiper) - 很多swiper基础
+- [react-native-magazine-listview](https://github.com/ggomaeng/react-native-magazine-listview)
+- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel)
 
 ### Chat(适合及时通讯聊天)
 
 - [react-native-reversed-flat-list ★89](https://github.com/jevakallio/react-native-reversed-flat-list)
 
+### 瀑布流效果
+
+- [react-native-masonry](https://github.com/brh55/react-native-masonry)
+
+### 安全Text
+
+- [react-native-smart-security-text](https://github.com/react-native-component/react-native-smart-security-text) - 遮挡部分手机号
+
+### 可排序列表（表格）
+
+- [react-native-sortable-listview](https://github.com/deanmcpherson/react-native-sortable-listview)
+- [react-native-sortable-list](https://github.com/gitim/react-native-sortable-list)
+
 ### 需要一部分效果(临时)
 
 - [react-native-tabbar](https://github.com/alinz/react-native-tabbar)
 - [React-Native-SnackBar-Component](https://github.com/SiDevesh/React-Native-SnackBar-Component)
+- [react-native-scrolltotop](https://github.com/yzsolo/react-native-scrolltotop) - 列表滚动到顶部效果
+- [den](https://github.com/asamiller/den)
 
 ### Other(其他好用组件，未归类)
 
 - [react-native-responsive-ui ★82](https://github.com/wcandillon/react-native-responsive-ui) - Building responsive UIs in React Native.
+- [react-native-foldview](https://github.com/jmurzy/react-native-foldview) - 盒子展示效果.
+
+### 角标
+
+- [react-native-smart-corner-label](https://github.com/react-native-component/react-native-smart-corner-label) - 角标
+
+### APP介绍页
+
+- [react-native-app-intro](https://github.com/FuYaoDe/react-native-app-intro) - 介绍页
+
+### 更新升级
+
+- [react-native-auto-updater](https://github.com/aerofs/react-native-auto-updater) - 更新升级效果
 
 ## 框架
 
@@ -294,6 +348,9 @@ Open source React Native apps and other examples.
 - [JueJinClient](https://github.com/wangdicoder/JueJinClient)
 - [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
+- [react-native-Gank](https://github.com/wangdicoder/react-native-Gank)
+- [react-native-cnblogs](https://github.com/togayther/react-native-cnblogs) - 仿博客园
+- [mdcc-client](https://github.com/poberwong/mdcc-client)
 
 
 ## 教程指南
