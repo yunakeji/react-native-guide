@@ -7,8 +7,6 @@
 - [Components](#components)
 - [Navigation](#navigation)
 - [Utilities](#utilities)
-- [Seeds](#seeds)
-- [Libraries](#libraries)
 - [Open Source Apps](#open-source-apps)
 - [Tutorials](#tutorials)
 
@@ -321,6 +319,14 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-windows ★1619](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
 - [react-native-tvos-controller ★2](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 
+### chat(适合及时通讯聊天)
+
+- [react-native-reversed-flat-list ★89](https://github.com/jevakallio/react-native-reversed-flat-list)
+
+### Other(其他好用组件，未归类)
+
+- [react-native-responsive-ui ★82](https://github.com/wcandillon/react-native-responsive-ui) - Building responsive UIs in React Native.
+
 ## Utilities
 
 Useful React Native tooling.
@@ -343,38 +349,7 @@ Useful React Native tooling.
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
 
-## Seeds
 
-Get a head start on development with an existing seed.
-
-- [🔥 Ignite ★3952](https://github.com/infinitered/ignite) - An unfair start for React Native - Generator CLI for redux/sagas and more.
-- [React-Native-Starter-Pack ★32](https://github.com/iSimar/React-Native-Starter-Pack) - React Native 0.34 + React-Redux (w/ Redux-Storage) + Native Base + Code Push
-- [react-native-webpack-starter-kit ★829](https://github.com/jhabdas/react-native-webpack-starter-kit)
-- [react-native-babel ★238](https://github.com/roman01la/react-native-babel)
-- [react-native-es6-reflux ★145](https://github.com/filp/react-native-es6-reflux)
-- [react-native-tabbed ★23](https://github.com/rxb/react-native-tabbed)
-- [react-native-hot-redux-starter ★134](https://github.com/adampash/react-native-hot-redux-starter)
-- [ReactNativeTS ★190](https://github.com/mrpatiwi/ReactNativeTS) - Boilerplate of a React Native project in Typescript.
-- [Snowflake ★3008](https://github.com/bartonhammond/snowflake) - Android & iOS, Redux, Jest (88% coverage), Immutable, Parse.com
-- [React Native Meteor Boilerplate ★407](https://github.com/spencercarli/react-native-meteor-boilerplate)
-- [MeteorNative Boilerplate ★18](https://github.com/redbaron76/MeteorNative) - a React Native and Meteor boilerplate with Redux.
-- [Pepperoni ★3157](https://github.com/futurice/pepperoni-app-kit) - Starter kit for Android & iOS, Redux, Immutable.js, disk-persisted app state
-- [Rhinos-app ★57](https://github.com/rhinos-app/rhinos-app-dev) - Cross-platform React Native boilerplate (iOS, Android, Web) built on react-native-web.
-- [rn-mobx-template ★9](https://github.com/hiaw/rn_mobx_template) - React Native with MobX template
-- [rn-relay-drawer-template ★4](https://github.com/hiaw/rn-relay-drawer-template) - React Native working with RNRF, drawer and relay
-- [React Native Hackathon Starter ★213](https://github.com/dabit3/react-native-hackathon-starter) - React Native Starter Project, great for hackathons or rapid prototyping. Includes tabs, navigation, Redux, React Native Vector Icons, & React Native Elements
-- [🍞 Baker ★46](http://baker.thebakery.io/) - An opinionated MVP toolkit that helps you build mobile apps crazy fast using React Native and Parse Server
-- [react-native-relay-example ★17](https://github.com/sibelius/react-native-relay-example) - React Native working with Relay
-- [react-native-redux ★86](https://github.com/sibelius/react-native-redux) - React Native + Redux + Redux Saga
-- [react-native-boilerplate ★20](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
-
-## Libraries
-
-Libraries / SDK type additions for React Native development.
-
-- [Panza ★155](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
-- [React Native Elements ★4303](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
-- [Shoutem UI ★1693](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
 
 ## Open Source Apps
 
