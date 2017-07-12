@@ -319,7 +319,12 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-windows ★1619](https://github.com/ReactWindows/react-native-windows) - React Native for Universal Windows Platform
 - [react-native-tvos-controller ★2](https://github.com/ycinfinity/react-native-tvos-controller) - TvOS remote controller module for react native.
 
-### chat(适合及时通讯聊天)
+
+### Effect(效果)
+
+- [react-native-read-more-text ★95](https://github.com/expo/react-native-read-more-text)
+
+### Chat(适合及时通讯聊天)
 
 - [react-native-reversed-flat-list ★89](https://github.com/jevakallio/react-native-reversed-flat-list)
 
