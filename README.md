@@ -280,6 +280,11 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
 - [ziliun-react-native](https://github.com/sonnylazuardi/ziliun-react-native)
 
+### 下拉alert通知效果
+
+- [react-native-dropdownalert](https://github.com/testshallpass/react-native-dropdownalert)
+
+
 ### 图片预加载
 
 - [react-native-smart-image-loader](https://github.com/react-native-component/react-native-smart-image-loader)
@@ -287,6 +292,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### 自动完成
 
 - [react-native-autocomplete-input](https://github.com/l-urence/react-native-autocomplete-input)
+- [RCTAutoComplete](https://github.com/nulrich/RCTAutoComplete)
 
 ### 图片处理
 
@@ -362,6 +368,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### 小的学习案例
 
 - [rn-wunderlist](https://github.com/mastermoo/rn-wunderlist) - 小的学习案例
+- [travel-RN](https://github.com/narendrashetty/travel-RN) - 旅行社
+
 
 ### 颜色选择器
 
