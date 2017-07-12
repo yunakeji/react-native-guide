@@ -8,7 +8,7 @@
 - [Navigation](#navigation)
 - [Utilities](#utilities)
 - [开源APP](#开源APP)
-- [Tutorials](#tutorials)
+- [教程指南](#教程指南)
 
 
 ## Components（组件）
@@ -67,16 +67,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### Forms
 
-- [react-native-clean-form ★118](https://github.com/esbenp/react-native-clean-form) - Good looking form elements with redux-form integration. Stylable with styled-components.
-- [react-native-fm-form ★10](https://github.com/peter4k/react-native-fm-form) - Generate list view form of React Native in few line of codes
-- [react-native-form-flux ★2](https://github.com/aksonov/react-native-form-flux) - React Native Form management using Flux architecture
-- [react-native-form ★100](https://github.com/julianocomg/react-native-form) - A simple react-native component to wrap your form fields!
-- [react-native-forms ★50](https://github.com/michaelhelvey/react-native-forms) - A declarative API for creating, validating, and serializing native-looking forms.
-- [react-native-form-generator ★207](https://github.com/MichaelCereda/react-native-form-generator) - Generate amazing React Native forms in a breeze
-- [react-native-gifted-form ★699](https://github.com/FaridSafi/react-native-gifted-form) - Form component for react-native
-- [redux-form ★4829](http://redux-form.com) - Redux form state management (Web and Native)
-- [tcomb-form-native ★1657](https://github.com/gcanti/tcomb-form-native) - Generate React Native forms
-- [foect ★4](https://github.com/unexge/foect) - Simple form validation library for React Native
+- [react-native-gifted-form](https://github.com/FaridSafi/react-native-gifted-form) - 基础样式Form表单
 
 ### Internationalization
 
@@ -241,6 +232,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Animation（动画）
 
 - [react-native-gl-model-view](https://github.com/rastapasta/react-native-gl-model-view) - 图片动画，类似游戏人物的3D效果
+- [lottie-react-native](https://github.com/airbnb/lottie-react-native) - 超级好的动画效果
 
 
 
@@ -256,6 +248,11 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### 时间轴
 
 - [reactjs-conf-2016](https://github.com/Charca/reactjs-conf-2016) - 时间轴效果
+- [react-native-timeline-listview](https://github.com/thegamenicorus/react-native-timeline-listview) - 时间轴效果
+
+### 等级打分
+
+- [react-native-grading](https://github.com/xgfe/react-native-grading)
 
 ### Effect(效果)
 
@@ -263,24 +260,29 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mentions](https://github.com/harshq/react-native-mentions) - 文本框输入，弹出@用户
 - [rn-emoji-feedback](https://github.com/mastermoo/rn-emoji-feedback) - 表情打5分类似的效果
 
+### Parallax View(视觉效果)
+
+- [react-native-parallax-scroll-view](https://github.com/jaysoo/react-native-parallax-scroll-view)
+- [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app)
+- [ziliun-react-native](https://github.com/sonnylazuardi/ziliun-react-native)
+
 
 ### Chat(适合及时通讯聊天)
 
 - [react-native-reversed-flat-list ★89](https://github.com/jevakallio/react-native-reversed-flat-list)
 
+### 需要一部分效果(临时)
+
+- [react-native-tabbar](https://github.com/alinz/react-native-tabbar)
+- [React-Native-SnackBar-Component](https://github.com/SiDevesh/React-Native-SnackBar-Component)
+
 ### Other(其他好用组件，未归类)
 
 - [react-native-responsive-ui ★82](https://github.com/wcandillon/react-native-responsive-ui) - Building responsive UIs in React Native.
 
-## Utilities
+## 框架
 
-Useful React Native tooling.
-
-- [ADB Auto Restarter ★3](https://github.com/mahanhaz/adb-auto-restarter) - Restart ADB service Automatically in case of crashing while debugging app with device
-- [react-native-snippets ★173](https://github.com/Shrugs/react-native-snippets) - A collection of Sublime Text Snippets for react-native
-- [exponent](https://expo.io/) - Use React Native without XCode (a previewer app + local server infrastructure)
-- [Ruby React Native (via Opal) ★382](https://github.com/zetachang/opal-native) - Use Ruby for building React Native apps
-- [React Native Playground](https://rnplay.org/) - Run React Native apps in your browser via real time simulator
+- [nativebase](https://docs.nativebase.io/) - 很不错的UI框架
 
 
 
@@ -288,18 +290,18 @@ Useful React Native tooling.
 
 Open source React Native apps and other examples.
 - [react_native_office](https://github.com/talentjiang/react_native_office) - 办公OA
-- [Urban Dictionary ★16](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
-- [Appointments  ★58](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments
-- [GitHub Popular ★1085](https://github.com/crazycodeboy/GitHubPopular) - This is a GitHub most popular repositories viewer with React Native.
+- [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) - 移动、web、桌面跨平台应用
+- [JueJinClient](https://github.com/wangdicoder/JueJinClient)
+- [react-native-nba-app](https://github.com/wwayne/react-native-nba-app)
+- [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
 
 
-## Tutorials
+## 教程指南
 
 Walkthroughs and tutorials that help you learn React Native.
 
-- [A Mini-Course on React Native Flexbox](https://medium.com/@yoniweisbrod/a-mini-course-on-react-native-flexbox-2832a1ccc6)
-- [Adding and removing custom fonts in React Native IOS Android](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4#.s73pqh4ez)
-- [Adding Custom Fonts to A React Native Application](https://medium.com/@dabit3/adding-custom-fonts-to-react-native-b266b41bff7f)
-- [Animate React Native UI Elements](https://egghead.io/courses/animate-react-native-ui-elements)
+- [react-native navigation 使用教程](https://www.shiqidu.com/p/83)
+- [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) - 30天学习RN，30个示例
+
 
 
