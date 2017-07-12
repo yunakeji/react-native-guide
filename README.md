@@ -1,10 +1,10 @@
-# React Native 指南
+# RN指南-学习、工作中实践记录资料(汇聚知识，分享精华)
 
 
 
-## Sections
+## 目录
 
-- [Components](#components)
+- [Components(组件)](#components)
 - [Navigation](#navigation)
 - [Utilities](#utilities)
 - [Open Source Apps](#open-source-apps)
