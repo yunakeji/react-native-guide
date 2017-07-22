@@ -19,7 +19,9 @@
 
 ## Components（组件）
 
-Components and native modules. For more search [JS.COACH](https://js.coach/react-native).
+### 文本 & 富内容 & html
+
+- [react-native-htmlview](https://github.com/jsdf/react-native-htmlview) - html解析处理
 
 ### UI
 
